@@ -1,0 +1,9 @@
+{
+  "name": "cw-cred"
+, "version": "0.0.1"
+, "private": true
+, "dependencies": {
+    "connectwise-api": "0.0.1"
+  , "commander": "1.0.5"
+  }
+}

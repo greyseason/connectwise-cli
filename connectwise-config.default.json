@@ -1,0 +1,9 @@
+{
+  "endpointURL" : "http://[YOUR CONNECTWISE URL]/v4_6_release/services/system_io/integration_io/processClientAction.rails"
+, "credentials" :
+  {
+    "CompanyName"         : "[YOUR COMPANY NAME]"
+  , "IntegrationLoginId"  : "[YOUR API USERNAME]"
+  , "IntegrationPassword" : "[YOUR API PASSWORD]"
+  }
+}
